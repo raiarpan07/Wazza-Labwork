@@ -1,13 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-    ======================================================
-    Course: Web Technology I - Laboratory Assignment
-    Project: Personal Portfolio XML Data Source
-    Student Name: Arpan Rai
-    Program: BIT (Bachelor of Information Technology) - 4th Sem
-    Address: Dharan-11
-    ======================================================
--->
 <portfolio>
     <studentInfo>
         <name>Arpan Rai</name>
