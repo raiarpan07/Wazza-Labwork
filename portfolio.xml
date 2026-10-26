@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ======================================================
+    Course: Web Technology I - Laboratory Assignment
+    Project: Personal Portfolio XML Data Source
+    Student Name: Arpan Rai
+    Program: BIT (Bachelor of Information Technology) - 4th Sem
+    Address: Dharan-11
+    ======================================================
+-->
+<portfolio>
+    <studentInfo>
+        <name>Arpan Rai</name>
+        <brand>Wazza</brand>
+        <semester>4th Semester</semester>
+        <program>Bachelor of Information Technology (BIT)</program>
+        <location>Dharan-11, Nepal</location>
+    </studentInfo>
+
+    <projects>
+        <project id="proj-01">
+            <title>Student Information &amp; Record System</title>
+            <category>Web Application</category>
+            <description>A college lab project created to manage student registrations, semester records, and attendance using client-side forms and local storage.</description>
+            <technologies>HTML5, CSS3, JavaScript</technologies>
+            <status>Completed</status>
+            <academicTerm>BIT 4th Semester</academicTerm>
+        </project>
+
+        <project id="proj-02">
+            <title>Dharan Tourism &amp; Cultural Guide</title>
+            <category>Interactive Web Page</category>
+            <description>A responsive guide web page highlighting scenic and religious landmarks around Dharan such as Budha Subba, Dantakali, and Bhedetar.</description>
+            <technologies>HTML5, CSS Flexbox, JavaScript</technologies>
+            <status>Completed</status>
+            <academicTerm>BIT 3rd Semester</academicTerm>
+        </project>
+
+        <project id="proj-03">
+            <title>Department Library Book Catalog</title>
+            <category>Data Management</category>
+            <description>An interactive library catalog parsed from XML and structured data, enabling search and filter by course code, title, and book availability.</description>
+            <technologies>XML, DOMParser, Vanilla JavaScript, CSS Grid</technologies>
+            <status>Completed</status>
+            <academicTerm>BIT 4th Semester</academicTerm>
+        </project>
+
+        <project id="proj-04">
+            <title>Personal Budget &amp; Expense Tracker</title>
+            <category>Utility Tool</category>
+            <description>A client-side financial tracking utility designed for college students to monitor daily expenses, categorize costs, and view savings.</description>
+            <technologies>HTML5, Vanilla JavaScript, CSS3</technologies>
+            <status>In Progress</status>
+            <academicTerm>BIT 4th Semester</academicTerm>
+        </project>
+    </projects>
+</portfolio>
