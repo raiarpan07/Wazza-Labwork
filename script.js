@@ -1,14 +1,3 @@
-/**
- * ========================================================
- * Project: Personal Portfolio Website
- * Subject: Web Technology I (Laboratory Work)
- * Student: Arpan Rai
- * Program: BIT 4th Semester
- * Description: Client-side JavaScript handling mobile menu,
- *              contact form validation, and XML project data parsing.
- * ========================================================
- */
-
 document.addEventListener('DOMContentLoaded', function () {
     // Initialize all components
     initMobileNav();
