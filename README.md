@@ -2,7 +2,7 @@
 
 Laboratory Work & Practical Project for Bachelor of Information Technology (BIT) 4th Semester.
 
-## 📌 Student Details
+##My Details
 - **Student Name:** Arpan Rai
 - **Brand / Logo:** Wazza
 - **Program:** Bachelor of Information Technology (BIT) - 4th Semester
@@ -12,7 +12,7 @@ Laboratory Work & Practical Project for Bachelor of Information Technology (BIT)
 
 ---
 
-## 🛠️ Tech Stack & Constraints
+## Tech Stack & Constraints
 This project is built strictly using client-side web technologies with no third-party CSS or JS frameworks:
 - **HTML5:** Semantic structuring (`<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<footer>`).
 - **CSS3:** Custom styles, CSS Flexbox, CSS Grid, custom color variables, and responsive `@media` queries.
@@ -33,10 +33,4 @@ WEB TECHNOLOGY I/
 ├── script.js        # Vanilla JS (DOM manipulation, XML parser, Form validation)
 ├── portfolio.xml    # XML database storing academic projects
 └── README.md        # Project documentation
-```
 
----
-
-## 🚀 How to Run Locally
-1. Clone or download this repository.
-2. Open `index.html` in any modern web browser (Google Chrome, Mozilla Firefox, Microsoft Edge).
